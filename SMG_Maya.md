@@ -34,6 +34,21 @@ I am technically writing this without Joltz permission, but by no means is it me
 - Grab the starting pistol to progress the quest, but of course don't use it. Once you have access to the fast travel in Claptraps hideout, travel over to ***The Raid on Digistruct Peak***
   - Grab the quest 
 
+**need to fill in stuff here**
+
+- Pickup 'Docotors Oders' from Tannis
+- Travel to WildLife Exploitation Preserve
+- Make your way to Loot midgets
+  - farm for level 23
+  - Get any upgrades
+- Complete story mission
+- Back to sancuary, farm for Bad and Good Touch
+  - use copied save method and stash so we can keep farm open
+- Complete 'Future Slab' main quest
+- Complete 'The Bane' side quest
+  - read only farm for corrosive bane for Bunker
+
+
 
 ## True Vault Hunter Mode
 
